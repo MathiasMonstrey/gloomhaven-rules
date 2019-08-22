@@ -1,6 +1,6 @@
 # Table of Contents
 
-## Play Overview [pp.4-12](#page4)
+## Play Overview [p.4-12](#page4)
 
 1. Character Mats [p.6](#page6)
 1. Character Ability Cards [p.7](#page7)
@@ -10,29 +10,29 @@
 1. Battle Goal Cards [p.10](#page10)
 1. Attack Modifier Cards [p.11](#page11)
 
-## Scenario Setup [pp.12-16](#page12)
+## Scenario Setup [p.12-16](#page12)
 
-1. Scenario Page [pp.12-13](#page12)
-1. Overlay Tiles [pp.14-15](#page14)
+1. Scenario Page [p.12-13](#page12)
+1. Overlay Tiles [p.14-15](#page14)
 1. Scenario Level [p.15](#page15)
 1. Game Variant: Open Information and Solo Play [p.16](#page16)
-1. Monster Turn [pp.29-32](#page29)
+1. Monster Turn [p.29-32](#page29)
 
-## Round Overview [pp.16-31](#page16)
+## Round Overview [p.16-31](#page16)
 
-1. Card Selection [pp.16-17](#page16)
+1. Card Selection [p.16-17](#page16)
 	1. Resting [p.17](#page17)
 1. Determining Initiative [p.18](#page18)
-1. Character Turn [pp.18-28](#page18)
+1. Character Turn [p.18-28](#page18)
 	1. Move [p.19](#page19)
 		1. Revealing a Room [p.19](#page19)
-  	1. Attack [pp.19-22](#page19)
-		1. Advantage and Disadvantage [pp.20-21](#page20)
+  	1. Attack [p.19-22](#page19)
+		1. Advantage and Disadvantage [p.20-21](#page20)
 	   	1. Area Effects [p.21](#page21)
 		1. Attack Effects [p.22](#page22)
-	  1. Conditions [pp.22-23](#page22)
-	  1. Elemental Infusions [pp.23-24](#page23)
-	  1. Active Bonuses [pp.25_26](#page25)
+	  1. Conditions [p.22-23](#page22)
+	  1. Elemental Infusions [p.23-24](#page23)
+	  1. Active Bonuses [p.25_26](#page25)
 	    	1. Shield [p.25](#page25)
 	    	1. Retaliate [p.26](#page26)
 	  1. Heal [p.26](#page26)
@@ -40,17 +40,17 @@
 	  1. Recover and Refresh [p.27](#page27)
 	  1. Loot [p.27](#page27)
 	    	1. End of Turn Looting [p.27](#page27)
-	  1. Gaining Experience [pp.27-28](#page27)
+	  1. Gaining Experience [p.27-28](#page27)
 	  1. Character Damage [p.28](#page28)
 	  1. Exhaustion [p.28](#page28)
 	  1. Items [p.28](#page28)
 1. Monster Turn [pp29-32](#page29)
 	  1. Order of Action [p.29](#page29)
-	  1. Monster Focus [pp.29-30](#page29)
-	  1. Monster Movement [pp.30-31](#page30)
+	  1. Monster Focus [p.29-30](#page29)
+	  1. Monster Movement [p.30-31](#page30)
     		1. Monster Interaction with Traps and Hazardous Terrain [p.31](#page31)
 	  1. Monster Attacks [p.31](#page31)
-	  1. Other Monster Abilities [pp.31-32](#page31)
+	  1. Other Monster Abilities [p.31-32](#page31)
 	  1. Ambiguity [p.32](#page32)
 	  1. Bosses [p.32](#page32)
 1. End of Round [p.32](#page32)
@@ -60,7 +60,7 @@
 
 ## Special Scenario Rules [p.34](#page34)
 
-1. Campaign Overview [pp.34-40](#page34)
+1. Campaign Overview [p.34-40](#page34)
 1. Campaign Board [p.35](#page35)
 1. Party Sheet [p.36](#page36)
 1. Character Sheet [p.37](#page37)
@@ -72,16 +72,16 @@
 1. Town Records [p.40](#page40)
 1. Achievements [p.40](#page40)
 
-## Playing a Campaign [pp.41-47](#page41)
+## Playing a Campaign [p.41-47](#page41)
 
-1. Traveling and Road Events [pp.41-42](#page41)
-  	1. Completing Road Events [pp.41-42](#page41)
+1. Traveling and Road Events [p.41-42](#page41)
+  	1. Completing Road Events [p.41-42](#page41)
 	1. Reputation [p.42](#page42)
-1. Visiting Gloomhaven [pp.42-48](#page42)
+1. Visiting Gloomhaven [p.42-48](#page42)
 	  1. Creating New Characters [p.42](#page42)
 	  1. Completing City Events [p.43](#page43)
 	  1. Buying and Selling Items [p.43](#page43)
-	  1. Leveling Up [pp.44-45](#page44)
+	  1. Leveling Up [p.44-45](#page44)
 		    1. Additional Perks [p.44](#page44)
 		    1. Building a Hand of Cards [p.45](#page45)
 		    1. Scenario Scaling [p.45](#page45)
@@ -97,7 +97,7 @@
 
 ## Game Variant: Permanent Death [p.50](#page50)
 
-## Game Variant: Random Dungeon Deck [pp.50-51](#page50)
+## Game Variant: Random Dungeon Deck [p.50-51](#page50)
 
 ## Credits [p.51](#page51)
 
@@ -120,7 +120,7 @@ The following section will teach you the mechanics for playing through an indivi
 
 ![Play area](img/rulebook/play-area.png)
 
-- A modular board of map tiles (a), constructed in a specific configuration using the Scenario Book as a reference (see Scenario Setup on pp. 12–13 for details). The map tiles should be laid out with doors (b) connecting them. The configuration of overlay tiles and monsters for the first room (c) should also be set up along with the character figures.
+- A modular board of map tiles (a), constructed in a specific configuration using the Scenario Book as a reference (see Scenario Setup on p. 12–13 for details). The map tiles should be laid out with doors (b) connecting them. The configuration of overlay tiles and monsters for the first room (c) should also be set up along with the character figures.
 - A character mat for each player (d) and the corresponding hand of ability cards for that character’s class (e), health and experience trackers (f), character tokens (g), a facedown battle goal card (h), and any equipped item cards (i).
 - All monster statistic cards (j), with their corresponding standees, and monster ability cards (k) set to one side in individual shuffled decks.
 - Shuffled decks of attack modifier cards for each player (l) and one for the monsters (m). **A standard attack modifier deck consists of twenty cards as shown at the top of the page**, not the characterspecific modifier cards found in the character boxes. A deck, however, may be modified by level-up bonuses, items, scenario effects, and the effects of the CURSE and BLESS conditions.
@@ -165,7 +165,7 @@ Playing ability cards is what allows a character to perform **actions** in a sce
 - The name of the ability (a).
 - An initiative number (b). The initiative number of the leading card played determines a player’s order in the initiative of a given round (see Determining Initiative on p. 18 for more details).
 - The level of the class card (c). A character starting at Level 1 can only use their Level 1 cards (or, alternately, Level X cards), but a character gains more powerful cards as they level up to add to their pool of available ability cards.
-- A top action (d) and bottom action (e). When the two ability cards are played on a player’s turn, one is used for the top action and the other for the bottom action. Note that a single **action** can contain several separate **abilities** (f). (See Character Turn on pp. 18–28 for more details on character actions.)
+- A top action (d) and bottom action (e). When the two ability cards are played on a player’s turn, one is used for the top action and the other for the bottom action. Note that a single **action** can contain several separate **abilities** (f). (See Character Turn on p. 18–28 for more details on character actions.)
 
 ---
 **<p align="right"><a name="page8">Page 8</a></p>**
@@ -233,7 +233,7 @@ Each round, after players have selected their own ability cards, one card is pla
 
 - The name of the monster type (a). Sometimes, multiple monster types use the same, more generic ability deck. For instance, Bandit Guards, City Guards, and Inox Guards all use the same “Guard” deck.
 - An initiative number (b). This number will determine when every monster of that type will act in a given round (see Determining Initiative on p. 18 for details).
-- A list of abilities (c). A monster will perform each of these abilities in the order listed (if possible) and then end its turn (see Monster Turn on pp. 29–32 for details).
+- A list of abilities (c). A monster will perform each of these abilities in the order listed (if possible) and then end its turn (see Monster Turn on p. 29–32 for details).
 - A shuffle symbol (d). If this symbol appears on a card, shuffle the corresponding monster’s ability discard pile back into the draw deck at the end of the round.
 
 ## Battle Goal Cards
@@ -276,7 +276,7 @@ A shuffle symbol (j). At the end of the round in which a “Null” ![Null card]
 
 ![Modifier type icons](img/rulebook/modifier-type-icons.png)
 
-A type icon (k). All standard attack modifier decks have a 1, 2, 3, 4, or M icon (l) for easy sorting, such that all cards with a given icon form the standard 20-card deck. All cards a character class adds to their modifier decks through perks (see Leveling Up on pp. 44–45 for details) have the symbol of that character class (m). Cards added to a modifier deck by a scenario or item effect have a ![Star icon](img/misc/star.png) icon (n). These cards should be removed at the end of a scenario.
+A type icon (k). All standard attack modifier decks have a 1, 2, 3, 4, or M icon (l) for easy sorting, such that all cards with a given icon form the standard 20-card deck. All cards a character class adds to their modifier decks through perks (see Leveling Up on p. 44–45 for details) have the symbol of that character class (m). Cards added to a modifier deck by a scenario or item effect have a ![Star icon](img/misc/star.png) icon (n). These cards should be removed at the end of a scenario.
 
 ---
 **<p align="right"><a name="page12">Page 12</a></p>**
@@ -302,7 +302,7 @@ When setting up a new scenario, the first step is to look in the scenario book t
 
 ---
 
-- Any locations the scenario links to ((l); see Traveling and Road Events on pp. 41–42 for details).
+- Any locations the scenario links to ((l); see Traveling and Road Events on p. 41–42 for details).
 - The configuration of map tiles (m) and door tiles (n) to be placed during setup. The specific map tiles needed for each scenario are also given (o). Each scenario map is broken up into separate rooms by door overlay tiles. A room may contain more than one map tile if those tiles are connected by other overlay tiles.
 - <img align="right" alt="Monster key" src="img/rulebook/monster-key.png"> Indications used to populate the scenario map based on the monster key . These indications may be in one of two different orientations depending on the overall orientation of the map. Monster placement is indicated in a symbol’s upper left for two characters, upper right for three characters and bottom for four characters. **BLACK** means the monster is not present, **WHITE** means a normal monster is present, and **GOLD** means an elite monster is present. Normal monsters should be placed on the map with their corresponding standees in white bases, and elite monsters should be placed in gold bases. Example: / indicates which type of monster is placed on this hex, and in this case no monster is placed in for two characters, a normal monster is placed for three characters, and an elite monster is placed for four characters. 
 
@@ -408,7 +408,7 @@ Players should not show other players the cards in their hands nor give specific
 - **Examples of appropriate communication:** “I’m attacking this guard near the middle of the round.”; “I’m planning on moving here and healing you pretty early in the round, hopefully before the monsters attack.” 
 - **Examples of inappropriate communication:** “You’ll need lower than an initiative 17 to go before me.”; “I should be doing 4 points of damage to the bandit, so you don’t have to worry about him.”; “I’m going to use Impaling Eruption and wipe out everyone.”
 
-During a player’s turn, the two played cards will be used to perform actions and then are either **discarded**, **lost**, or **activated**, depending on the actions that were taken. Played cards are normally placed in a player’s **discard pile** unless otherwise noted. **Discarded** cards can be returned to a player’s **hand** through **resting** (see below). If the performed action from a card contains a ![Loss](img/icons/general/loss.png) symbol in the lower right of the action field, the card is instead placed in a player’s **lost pile**. Lost cards can only be returned to a player’s hand during a scenario by using a special **recover** action. Whether the corresponding card is lost or discarded, some actions may contain an **active** effect (denoted by the symbols at right). Instead of being placed in the discard or lost pile, the card is placed in the **active area** in front of the player to keep track of the effect. Once the effect wears off, the card is then transferred to the appropriate pile (see Active Bonuses on pp. 25–26 for details).
+During a player’s turn, the two played cards will be used to perform actions and then are either **discarded**, **lost**, or **activated**, depending on the actions that were taken. Played cards are normally placed in a player’s **discard pile** unless otherwise noted. **Discarded** cards can be returned to a player’s **hand** through **resting** (see below). If the performed action from a card contains a ![Loss](img/icons/general/loss.png) symbol in the lower right of the action field, the card is instead placed in a player’s **lost pile**. Lost cards can only be returned to a player’s hand during a scenario by using a special **recover** action. Whether the corresponding card is lost or discarded, some actions may contain an **active** effect (denoted by the symbols at right). Instead of being placed in the discard or lost pile, the card is placed in the **active area** in front of the player to keep track of the effect. Once the effect wears off, the card is then transferred to the appropriate pile (see Active Bonuses on p. 25–26 for details).
 
 ![Lost](img/icons/general/large/loss.png) | ![Recover](img/icons/general/large/recover.png) | ![Persistent Bonus](img/icons/general/large/persistent-bonus.png) | ![Round Bonus](img/icons/general/large/round-bonus.png)
 -----|------|------|----------
@@ -471,7 +471,7 @@ Once everything is placed in the new room, any present monster types without an 
 
 ![Attack](img/icons/general/attack.png) An **“Attack X”** ability allows a character to do a base X amount of damage to an enemy within their range. Figures cannot attack their allies. There are two types of attacks: **ranged** and **melee**.
 
-![Range](img/icons/general/range.png) **Ranged attacks** are accompanied by a **“Range Y”** value, which means any enemy within Y hexes can be targeted by the attack. Any ranged attack targeting an adjacent enemy gains Disadvantage against that target (see Advantage and Disadvantage on pp. 20–21 for details).
+![Range](img/icons/general/range.png) **Ranged attacks** are accompanied by a **“Range Y”** value, which means any enemy within Y hexes can be targeted by the attack. Any ranged attack targeting an adjacent enemy gains Disadvantage against that target (see Advantage and Disadvantage on p. 20–21 for details).
 
 **Melee attacks** have no accompanying range value and are considered to have a default range of 1 hex, which means they typically target adjacent enemies.
 
@@ -664,7 +664,7 @@ Some abilities summon other ally figures to the board. Summoned figures (summons
 
 Summons have basic statistics for hit points, attack value, move value, and range value along with any special traits written on the ability card. A summon is considered a persistent bonus (the card is placed in the active area) until either the summon loses all its hit points, its corresponding ability card is removed from the active area, or the summoner becomes exhausted, at which point the summon is removed from the board.
 
-A summon’s turn in the initiative order is always **directly before the character who summoned it**, and is separate from that character’s turn. Summons are not controlled by the summoning player, but instead obey automated monster rules, permanently following the ability card **“Move+0, Attack+0”** (see Monster Turn on pp. 29–32 for details) and using the player’s attack modifier deck to perform its attacks.
+A summon’s turn in the initiative order is always **directly before the character who summoned it**, and is separate from that character’s turn. Summons are not controlled by the summoning player, but instead obey automated monster rules, permanently following the ability card **“Move+0, Attack+0”** (see Monster Turn on p. 29–32 for details) and using the player’s attack modifier deck to perform its attacks.
 
 A player can have multiple different summon abilities in play at once, in which case they act in the order in which they were summoned. Summoned figures **never** take a turn in the round they are summoned. Summon kills are credited to the owner of the summon.
 
@@ -805,9 +805,9 @@ Monsters without the Flying trait consider negative hexes (traps or hazardous te
 
 ### MONSTER ATTACKS
 
-A monster will attack on its turn if **“Attack±X”** is part of its ability card. Any damage dealt is calculated from its base attack value (found on its monster statistic card) modified by X (either positive or negative). Monsters will always attack their focused enemies (see Monster Focus on pp. 29–30 for details) but if the monster can attack multiple targets, it will attack its focused enemy and as many other enemies as possible to **maximum effect**. If a monster has multiple attacks, it will choose the focus of its other attacks following normal focus rules, excluding figures it is already attacking. Any attack that does not specify a range on the monster ability card should use the base range of the monster written on its stat card.
+A monster will attack on its turn if **“Attack±X”** is part of its ability card. Any damage dealt is calculated from its base attack value (found on its monster statistic card) modified by X (either positive or negative). Monsters will always attack their focused enemies (see Monster Focus on p. 29–30 for details) but if the monster can attack multiple targets, it will attack its focused enemy and as many other enemies as possible to **maximum effect**. If a monster has multiple attacks, it will choose the focus of its other attacks following normal focus rules, excluding figures it is already attacking. Any attack that does not specify a range on the monster ability card should use the base range of the monster written on its stat card.
 
-Monster attacks function exactly like character attacks, and are modified by the attacker’s attack bonuses, then attack modifier cards, then the defense bonuses of their target. They may be performed with Advantage or Disadvantage as discussed on pp. 20–21.
+Monster attacks function exactly like character attacks, and are modified by the attacker’s attack bonuses, then attack modifier cards, then the defense bonuses of their target. They may be performed with Advantage or Disadvantage as discussed on p. 20–21.
 
 ### OTHER MONSTER ABILITIES
 
@@ -928,7 +928,7 @@ A party can persist from scenario to scenario and play session to play session, 
 ![Party sheet](img/rulebook/party-sheet.png)
 
 - A space to name the party (a). Every good party should have a name. Be creative. 
-- A space to track the current scenario location of the party (b). This is mainly relevant for linked scenarios (see Traveling and Road Events on pp. 41–42 for details). 
+- A space to track the current scenario location of the party (b). This is mainly relevant for linked scenarios (see Traveling and Road Events on p. 41–42 for details). 
 - A space for notes (c). If there is anything else a party would like to track, they can do so here. 
 - A space to track party achievements (d). Whenever a party earns a party achievement, it should be noted here (see Achievements on p. 40 for details). 
 - A reputation track (e). A party will gain and lose reputation over time for a number of reasons, and this is tracked by penciling in or erasing sections of the reputation track on the notepad (see Reputation on p. 42 for details). To the right of the track, the item price discounts and penalties for high and low reputation (f) are visible.
@@ -947,7 +947,7 @@ When a new character is created, the player should start a new entry in the char
 ![Character sheet](img/rulebook/character-sheet.png)
 
 - A space to name the character (a). Every character should have a name. Be creative. 
-- A space to mark the current level of the character (b). As characters gain experience, they will increase in level (see Leveling Up on pp. 44–45 for details). The total amount of experience needed is written below each level (c). 
+- A space to mark the current level of the character (b). As characters gain experience, they will increase in level (see Leveling Up on p. 44–45 for details). The total amount of experience needed is written below each level (c). 
 - Spaces to keep detailed notes on the amount of experience (d) and gold (e) a character has. 
 - A space to track all the items a character has in their possession (f). 
 - A perk list specific to the character class (g). Whenever a character gains a perk (see Additional Perks on p. 44 for details), they mark the one on the list they want. 
@@ -998,7 +998,7 @@ Players will have many opportunities to encounter city and road events throughou
 - A **decision point** (d). The party as a whole must choose between two options depending on their preference. Only after a collective decision has been reached should the card be flipped over and the proper **outcome** on the back resolved. 
 - The number of the event (e). This number will be referenced in the game when instructing players to add specific events to their respective decks. 
 - Descriptions of both choices (f). Depending on which option the party chose, players should read the corresponding choice and ignore the other. 
-- The outcome of a choice (g), which consists of a block of thematic text followed by the specific game play effects on the game in bold. A choice can contain multiple separate outcomes, some dependent on specific conditions (see Completing Road Events on pp. 41–42 for details). 
+- The outcome of a choice (g), which consists of a block of thematic text followed by the specific game play effects on the game in bold. A choice can contain multiple separate outcomes, some dependent on specific conditions (see Completing Road Events on p. 41–42 for details). 
 - Icons directing players to either remove the event card from the game (h) or return it to the bottom of the corresponding event deck (i) after the outcome is resolved.
 
 When the game box is opened and the campaign begins, a shuffled city event deck and road event deck should both be created using city and road events 01 through 30. Players will be directed to add or remove certain events from these decks over the course of the campaign. When a card is added to an event deck, the event deck should then be shuffled. Note that adding a card is different from returning a played card to an event deck, in which case it is placed on the bottom of the deck and the deck is not shuffled.
@@ -1039,7 +1039,7 @@ After every scenario, whether it was a success or failure, players have the choi
 
 In the case that players immediately travel to a new scenario, they must complete a road event before starting the new scenario **unless they are playing the same scenario, the new scenario is linked to the previous scenario, or they are playing in casual mode.** In a scenario’s entry in the Scenario Book, the scenarios that are **linked** to that entry are listed on the upper right side of the page. If the two scenarios are **linked**, players can immediately start the new scenario without completing a road event.
 
-If players return to Gloomhaven, once they are finished with their **business** in town (see Visiting Gloomhaven on pp. 42–48 for details), then the party will still need to **travel** to a new scenario and complete a road event **unless the new scenario is linked to Gloomhaven or it is being played in casual mode**. This link will also be listed in the scenario’s entry in the scenario book.
+If players return to Gloomhaven, once they are finished with their **business** in town (see Visiting Gloomhaven on p. 42–48 for details), then the party will still need to **travel** to a new scenario and complete a road event **unless the new scenario is linked to Gloomhaven or it is being played in casual mode**. This link will also be listed in the scenario’s entry in the scenario book.
 
 ***Example:** After completing the **Black Barrow** scenario, the party unlocks the **Barrow Lair** scenario. These two scenarios are **linked**, so they could travel to the Barrow Lair without completing a road event. Instead, they decide to go back to **Gloomhaven** to spend the money they gathered. Now when they travel to the Barrow Lair, they must complete a road event because the Barrow Lair is not linked to Gloomhaven.*
 
